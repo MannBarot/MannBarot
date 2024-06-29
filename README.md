@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MannBarot, a first year college student from North Carolina
-- 👀 I’m pursuing a BS in Computer Science & (Pre) Business Administration at the University of North Carolina at Chapel Hill
-- 🌱 I’m currently interested in learning more about AI and Machine Learning.
+- 👋 Hi, I’m @MannBarot, a second-year college student
+- 👀 I’m pursuing a BS in Computer Science & Business Administration at the University of North Carolina at Chapel Hill
+- 🌱 I’m focused on making software that can solve problems
 - 📫 You can reach me at mannbarot10@gmail.com or manbar@unc.edu!
 
 <!---
