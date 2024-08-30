@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MannBarot, a second-year college student
-- 👀 I’m pursuing a BS in Computer Science & Business Administration at the University of North Carolina at Chapel Hill
-- 🌱 I’m focused on making software that can solve problems
+- 👀 Pursuing a BS in Computer Science & Business Administration at the University of North Carolina at Chapel Hill
+- 🌱 Focused on making software that can solve problems
 - 📫 You can reach me at mannbarot10@gmail.com or manbar@unc.edu!
 
 <!---
